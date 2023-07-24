@@ -1,0 +1,10 @@
+
+  {
+    "env":{
+        "SQL_USER": "root" ,
+        "SQL_PASSWORD": "root" ,
+        "SQL_DATABASE": "ecommerce" ,
+        "SQL_SERVER": "localhost" ,
+        "SQL_ENCRYPT": "false" 
+    }
+}
